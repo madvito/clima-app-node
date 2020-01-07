@@ -2,7 +2,7 @@
 
 ```npm install``` antes de ejecutar
 
-## Ejemplo_
+## Ejemplo:
 ```
 node app -d "New York"
 ```

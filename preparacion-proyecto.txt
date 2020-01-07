@@ -1,0 +1,5 @@
+npm install --save yargs
+npm i axios	//instala axios para consumir api por promesas, request consume por callbacks
+
+
+registrarse en https://rapidapi.com/dev132/api/city-geo-location-lookup para poder usar la api de localizacion
